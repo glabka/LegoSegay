@@ -1,1 +1,1 @@
-# LegoSegay
+# LegoSegway
